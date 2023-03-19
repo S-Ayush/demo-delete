@@ -1,0 +1,366 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ayushshrivastava076@gmail.com
+X-WR-TIMEZONE:Asia/Kolkata
+BEGIN:VEVENT
+DTSTART:20190409T151500Z
+DTEND:20190409T161500Z
+DTSTAMP:20230319T171539Z
+UID:75hj4o9kc8q66bb6chj3eb9k6sq30b9o6ormcb9lc8p34db461h62ohj6o@google.com
+CREATED:20190415T051808Z
+DESCRIPTION:
+LAST-MODIFIED:20190415T051808Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220508T043000Z
+DTEND:20220508T064000Z
+DTSTAMP:20230319T171539Z
+ORGANIZER;CN=Unknown Organizer:mailto:unknownorganizer@calendar.google.com
+UID:7kukuqrfedlm2f9t6lgu252tf3oes5diip5ui0mgsrur2afh8601364v8rbjdtflfq50
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=ayushs
+ hrivastava076@gmail.com;X-NUM-GUESTS=0:mailto:ayushshrivastava076@gmail.com
+CLASS:PRIVATE
+CREATED:20220507T095148Z
+DESCRIPTION:Doctor Strange: In The Multiverse Of Madness (3D)(Hindi)\nTime 
+ Cinema Surat\, Galaxy Circle\, Fortune The Shopping Island\, New RTO-Pal La
+ ke Road\, Near Galaxy Circle\, \nPal\, Surat\, Gujarat 394510\, India\, Sur
+ at\, Gujarat\, India\, 395009\n\nConfirmation number: 01159239633
+LAST-MODIFIED:20220507T095148Z
+LOCATION:Time Cinema Surat\, Galaxy Circle\, Fortune The Shopping Island\, 
+ New RTO-Pal Lake Road\, Near Galaxy Circle\, \nPal\, Surat\, Gujarat 394510
+ \, India\, Surat\, Gujarat\, India\, 395009
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Doctor Strange: In The Multiverse Of Madness (3D)(Hindi)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201009T083000Z
+DTEND:20201009T093000Z
+DTSTAMP:20230319T171539Z
+ORGANIZER;CN=sonali.leocan@gmail.com:mailto:sonali.leocan@gmail.com
+UID:5kkjq48j0ft6oaknritdsuh333@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jaybak
+ re17@gmail.com;X-NUM-GUESTS=0:mailto:jaybakre17@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=ayushs
+ hrivastava076@gmail.com;X-NUM-GUESTS=0:mailto:ayushshrivastava076@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=mi
+ ral.leocan@gmail.com;X-NUM-GUESTS=0:mailto:miral.leocan@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=divyes
+ hsondagar135@gmail.com;X-NUM-GUESTS=0:mailto:divyeshsondagar135@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=sonali
+ .leocan@gmail.com;X-NUM-GUESTS=0:mailto:sonali.leocan@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=sa
+ hil.javiya04@gmail.com;X-NUM-GUESTS=0:mailto:sahil.javiya04@gmail.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/vit-udbx-fyh
+CREATED:20201009T081143Z
+DESCRIPTION:\nHello\,\n\nPlease join Practical Test  using this google meet
+  link at the time allotted to you.\n\nFollow the below instruction when you
+  join the meeting:\n- Please join a call from PC not from mobile.\n- You ha
+ ve to share the screen of your PC. To share screen\, click on the "Present 
+ Now" option and choose the "Entire screen" option from the bottom bar of th
+ e google meet window.\n\nRegards\,\nHR - Sonali Chauhan\n79902584064\n\n-::
+ ~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~::~:~::-\nJoin with Google Meet: https://meet.google.com/vit-udbx-fyh\n\nL
+ earn more about Meet at: https://support.google.com/a/users/answer/9282720\
+ n\nPlease do not edit this section.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20230204T175720Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Leocan Technologies - Practical Test
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210501T063000Z
+DTEND:20210501T073000Z
+DTSTAMP:20230319T171539Z
+ORGANIZER;CN=trainer@tops-int.com:mailto:trainer@tops-int.com
+UID:3aknfsm5u9blqv0j2ntmu6rsdm@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ay
+ ushshrivastava076@gmail.com;X-NUM-GUESTS=0:mailto:ayushshrivastava076@gmail
+ .com
+CREATED:20210501T054631Z
+DESCRIPTION:\nToday at 12pm Bootstrap webinar through zoom.\n\nYou already 
+ got confirmation mail. Joining link in that mail.\n\nIf you have not receiv
+ ed any mail then register again.\n\nOr\n\nMeeting ID: 937 3188 8119\nPassco
+ de: 264122\n\nAtul Jain from TOPS Technologies\n7874933344
+LAST-MODIFIED:20230204T175722Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Joining link of Bootstrap webinar - Today - 12pm - TOPS Technologie
+ s
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210106T053000Z
+DTEND:20210106T054500Z
+DTSTAMP:20230319T171539Z
+ORGANIZER;CN=HR Toshal:mailto:hr@toshalinfotech.com
+UID:c8s68c9mckr62bb1ckpjgb9k6sr66b9p70s32bb56di66ob4cgr3gphnco@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=itw.di
+ vyap@gmail.com;X-NUM-GUESTS=0:mailto:itw.divyap@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=ayushs
+ hrivastava076@gmail.com;X-NUM-GUESTS=0:mailto:ayushshrivastava076@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Vishal
+  Shah;X-NUM-GUESTS=0:mailto:vishal@idea2working.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=HR Tos
+ hal;X-NUM-GUESTS=0:mailto:hr@toshalinfotech.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/sru-eaou-bcm
+CREATED:20210105T112938Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.com/sr
+ u-eaou-bcm\nOr dial: (US) +1 574-807-0745 PIN: 322229275#\n\nLearn more abo
+ ut Meet at: https://support.google.com/a/users/answer/9282720\n\nPlease do 
+ not edit this section.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20230204T175724Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Ayush Shrivastava- 1st Round-Online- Fresher
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201008T081000Z
+DTEND:20201008T091000Z
+DTSTAMP:20230319T171539Z
+ORGANIZER;CN=sonali.leocan@gmail.com:mailto:sonali.leocan@gmail.com
+UID:1faf13irv4e5d58dvhon056o6j@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=ayushs
+ hrivastava076@gmail.com;X-NUM-GUESTS=0:mailto:ayushshrivastava076@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=mi
+ ral.leocan@gmail.com;X-NUM-GUESTS=0:mailto:miral.leocan@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=sonali
+ .leocan@gmail.com;X-NUM-GUESTS=0:mailto:sonali.leocan@gmail.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/tmc-fvht-bsu
+CREATED:20201008T070137Z
+DESCRIPTION:Hello\,\n\nPlease join Technical Interview using this google me
+ et link at the time allotted to you.\n\nRegards\,\nHR - Sonali Chauhan\n799
+ 02584064\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.com/tm
+ c-fvht-bsu\n\nLearn more about Meet at: https://support.google.com/a/users/
+ answer/9282720\n\nPlease do not edit this section.\n-::~:~::~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20230204T175726Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Leocan Technologies - technical interview
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200512T111500Z
+DTEND:20200512T124500Z
+DTSTAMP:20230319T171539Z
+ORGANIZER;CN=Silver Touch Techlab:mailto:silvertouchtechlab@gmail.com
+UID:062a975c-3a69-42c4-89c3-89508f5dc62f
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ay
+ ushshrivastava076@gmail.com;X-NUM-GUESTS=0:mailto:ayushshrivastava076@gmail
+ .com
+CREATED:20200511T131621Z
+DESCRIPTION:\n\n\n\nJOIN WEBEX MEETING\nhttps://meetingsapac12.webex.com/me
+ etingsapac12/j.php?MTID=m925195ba29b4ceb70f34d0c48df9895a\nMeeting number (
+ access code): 917 691 660\n\n\nMeeting password: SIlver@@1234 (74583711 fro
+ m phones and video systems)\n\n\n\nJOIN BY PHONE\n+65-6703-6949 Singapore T
+ oll\nTap here to call (mobile phones only\, hosts not supported): tel:%2B65
+ -6703-6949\,\,*01*917691660%2374583711%23*01*\n\nGlobal call-in numbers\nht
+ tps://meetingsapac12.webex.com/meetingsapac12/globalcallin.php?MTID=mf7c4dc
+ 7b65a07e50482507a63434ace1\n\n\nJOIN FROM A VIDEO SYSTEM OR APPLICATION\nDi
+ al sip:917691660@meetingsapac12.webex.com\nYou can also dial 210.4.202.4 an
+ d enter your meeting number.\n\n\nJoin using Microsoft Lync or Microsoft Sk
+ ype for Business\nDial sip:917691660.meetingsapac12@lync.webex.com\n\n\n\nC
+ an't join the meeting?\nhttps://collaborationhelp.cisco.com/article/WBX0000
+ 29055\n\n\nIMPORTANT NOTICE: Please note that this Webex service allows aud
+ io and other information sent during the session to be recorded\, which may
+  be discoverable in a legal matter. By joining this session\, you automatic
+ ally consent to such recordings. If you do not consent to being recorded\, 
+ discuss your concerns with the host or do not join the session.\n
+LAST-MODIFIED:20230204T175728Z
+LOCATION:https://meetingsapac12.webex.com/meetingsapac12/j.php?MTID=m925195
+ ba29b4ceb70f34d0c48df9895a
+SEQUENCE:1589202981
+STATUS:CONFIRMED
+SUMMARY:Webinar: Talent building with Digital Transformation
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230227T103000Z
+DTEND:20230227T110000Z
+DTSTAMP:20230319T171539Z
+ORGANIZER;CN=Sapphire Careers:mailto:careers@sapphiresolutions.net
+UID:7jsvsbvoqotvrt3unr0h50b0mi@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sapphi
+ re Careers;X-NUM-GUESTS=0:mailto:careers@sapphiresolutions.net
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Ra
+ jendra Patel;X-NUM-GUESTS=0:mailto:rajendra.patel@sapphiresolutions.net
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=vi
+ vek.upadhyay@sapphiresolutions.net;X-NUM-GUESTS=0:mailto:vivek.upadhyay@sap
+ phiresolutions.net
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=ayushs
+ hrivastava076@gmail.com;X-NUM-GUESTS=0:mailto:ayushshrivastava076@gmail.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/jwt-uagw-yov
+CREATED:20230225T051846Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.com/jw
+ t-uagw-yov\nOr dial: (US) +1 316-512-2350 PIN: 898628454#\nMore phone numbe
+ rs: https://tel.meet/jwt-uagw-yov?pin=6123258538997&hs=7\n\nLearn more abou
+ t Meet at: https://support.google.com/a/users/answer/9282720\n\nPlease do n
+ ot edit this section.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20230225T134312Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Ayush Shrivastav : Technical Interview : MERN
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230228T053000Z
+DTEND:20230228T083000Z
+DTSTAMP:20230319T171539Z
+ORGANIZER;CN=priyanshi.shah@propelius.tech:mailto:priyanshi.shah@propelius.
+ tech
+UID:5987ucfjpi8dfu97rdo2pu44ee@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=priyan
+ shi.shah@propelius.tech;X-NUM-GUESTS=0:mailto:priyanshi.shah@propelius.tech
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=dr
+ ashti.shah@propelius.tech;X-NUM-GUESTS=0:mailto:drashti.shah@propelius.tech
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Ya
+ sh Tamakuwala;X-NUM-GUESTS=0:mailto:yash@propelius.tech
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ni
+ shit.patel@propelius.tech;X-NUM-GUESTS=0:mailto:nishit.patel@propelius.tech
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=ayushs
+ hrivastava076@gmail.com;X-NUM-GUESTS=0:mailto:ayushshrivastava076@gmail.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/dxp-vjrr-sad
+CREATED:20230227T132516Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.com/dx
+ p-vjrr-sad\nOr dial: (US) +1 413-752-0618 PIN: 195265048#\nMore phone numbe
+ rs: https://tel.meet/dxp-vjrr-sad?pin=1907331476490&hs=7\n\nLearn more abou
+ t Meet at: https://support.google.com/a/users/answer/9282720\n\nPlease do n
+ ot edit this section.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20230227T140430Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Ayush Shrivastav - Virtual Interview scheduled for SE II
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230228T110000Z
+DTEND:20230228T113000Z
+DTSTAMP:20230319T171539Z
+ORGANIZER;CN=helloenvisageinfotech@gmail.com:mailto:helloenvisageinfotech@g
+ mail.com
+UID:1ek0msr3eogikq0b4350c17etf@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ra
+ vithakkar2990@gmail.com;X-NUM-GUESTS=0:mailto:ravithakkar2990@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ru
+ tikthakkar0201@gmail.com;X-NUM-GUESTS=0:mailto:rutikthakkar0201@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=helloe
+ nvisageinfotech@gmail.com;X-NUM-GUESTS=0:mailto:helloenvisageinfotech@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=ayushs
+ hrivastava076@gmail.com;X-NUM-GUESTS=0:mailto:ayushshrivastava076@gmail.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/osk-ptxg-mwp
+CREATED:20230227T135959Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.com/os
+ k-ptxg-mwp\n\nLearn more about Meet at: https://support.google.com/a/users/
+ answer/9282720\n\nPlease do not edit this section.\n-::~:~::~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20230228T044611Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Ayush Shrivastav Interview for Reactjs Developer (Round 1)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230301T100000Z
+DTEND:20230301T103000Z
+DTSTAMP:20230319T171539Z
+ORGANIZER;CN=mitali.lavekar@simplelogic.in:mailto:mitali.lavekar@simplelogi
+ c.in
+UID:73hdsrlm6bfd3kvts20gduag0e@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Ne
+ etu Mishra;X-NUM-GUESTS=0:mailto:neetu.mishra@simplelogic.in
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mitali
+ .lavekar@simplelogic.in;X-NUM-GUESTS=0:mailto:mitali.lavekar@simplelogic.in
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=sn
+ ehal.pawar@simplelogic.in;X-NUM-GUESTS=0:mailto:snehal.pawar@simplelogic.in
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=su
+ nita.more@simplelogic.in;X-NUM-GUESTS=0:mailto:sunita.more@simplelogic.in
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=ayushs
+ hrivastava076@gmail.com;X-NUM-GUESTS=0:mailto:ayushshrivastava076@gmail.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/msf-xkqy-ogn
+CREATED:20230228T121457Z
+DESCRIPTION:Dear Ayush\,\nThank you for giving us your time.\n\nAs discusse
+ d\, your profile is shortlisted and you have been scheduled for an intervie
+ w.\n\nInterview Date - 1st March 2023.\nInterview Time - 03.30 pm\nMode of 
+ interview : Google Meet\n\nPlease be available in a network zone and free f
+ rom background noise. Feel free to reach me in case of any query.\n\nThanks
+  & Regards\,\n\nMitali.\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://mee
+ t.google.com/msf-xkqy-ogn\nOr dial: (US) +1 219-401-0163 PIN: 520496281#\nM
+ ore phone numbers: https://tel.meet/msf-xkqy-ogn?pin=5456088645135&hs=7\n\n
+ Learn more about Meet at: https://support.google.com/a/users/answer/9282720
+ \n\nPlease do not edit this section.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20230228T160908Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Technical Interview_Jr React Js_Ayush_1st March 23
+TRANSP:OPAQUE
+ATTACH;FILENAME=Ayush+latest+Resume.pdf;FMTTYPE=application/pdf:https://dri
+ ve.google.com/open?id=1hxoFSeYyjAV9hf6de_A-sJVjfT_jZrF6&authuser=0
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230309T053000Z
+DTEND:20230309T063000Z
+DTSTAMP:20230319T171539Z
+ORGANIZER;CN=hr@hopiant.com:mailto:hr@hopiant.com
+UID:0jn580pjhj010svcp3l788qvv6@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=hr@hop
+ iant.com;X-NUM-GUESTS=0:mailto:hr@hopiant.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=bh
+ avesh_b@hopiant.com;X-NUM-GUESTS=0:mailto:bhavesh_b@hopiant.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=sa
+ gar_c@hopiant.com;X-NUM-GUESTS=0:mailto:sagar_c@hopiant.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=yo
+ gesh_b@hopiant.com;X-NUM-GUESTS=0:mailto:yogesh_b@hopiant.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ay
+ ushshrivastava076@gmail.com;X-NUM-GUESTS=0:mailto:ayushshrivastava076@gmail
+ .com
+X-GOOGLE-CONFERENCE:https://meet.google.com/rmj-yajb-qth
+CREATED:20230307T110443Z
+DESCRIPTION:React JS\n1.8 years of Experience\n\n-::~:~::~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nJoin with Go
+ ogle Meet: https://meet.google.com/rmj-yajb-qth\nOr dial: (US) +1 218-503-1
+ 328 PIN: 258927771#\nMore phone numbers: https://tel.meet/rmj-yajb-qth?pin=
+ 5113997352673&hs=7\n\nLearn more about Meet at: https://support.google.com/
+ a/users/answer/9282720\n\nPlease do not edit this section.\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20230309T152032Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Ayush Interview (React JS)
+TRANSP:OPAQUE
+ATTACH;FILENAME=Ayush latest Resume.pdf;FMTTYPE=application/pdf:https://dri
+ ve.google.com/open?id=1YprsQBzuAQnpnbtKkgZHW0Z9HkUJmKhb&authuser=0
+END:VEVENT
+END:VCALENDAR
