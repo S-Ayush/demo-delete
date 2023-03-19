@@ -1,16 +1,14 @@
 import logo from "./logo.svg";
 import "./App.css";
-import file from "./icaal.ics";
+import calander from "./icaal.ics";
 import { useEffect } from "react";
 
 function App() {
-  const download = (data, filename) => {
-    debugger;
-    const _data = JSON.stringify(data);
+  const download = (file) => {
     const link = document.createElement("a");
-
+    // create file and use it here
     link.setAttribute("href", file);
-    link.setAttribute("download", filename || "ics.ics");
+    link.setAttribute("download", "ics.ics");
     link.style.display = "none";
 
     document.body.appendChild(link);
@@ -20,11 +18,7 @@ function App() {
   };
 
   useEffect(() => {
-    download({
-      name: "John Doe",
-      email: "john@doe.com",
-      phone: "+1 234 567",
-    });
+    download(calander);
   }, []);
   return <div className="App"></div>;
 }
